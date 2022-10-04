@@ -1,4 +1,4 @@
-# Line break tool
+# Insert line break tool
 
 ## 作成目的
 Excelにて1セル内の文字量が多い場合に、最終行を改行して空白行にした方が見やすい場合がある。
